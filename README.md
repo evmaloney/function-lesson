@@ -1,6 +1,7 @@
 # Functions
-## Lesson Objectives - In this lesson, we will learn...
-1. What is a function
+## Lesson Objectives
+In this lesson, we will learn:
+1. What is a function?
 2. Why we use functions
 3. How to write a function
 4. The difference between declaring a funcion and calling a function
@@ -12,3 +13,5 @@ Often times, a function can take in information (input), do its "task" (or "task
 
 (Algebra anyone?)
 
+## Why we use functions
+Let's think about a relatively simple use case of a function - getting the sales tax of an item. Let's say we wanted to get the sales tax of an item that is $10.00 and our tax rate is 7%. We could write a program where we write out the number 10 and multiply is by 0.07 to get our answer. Now let's say we have 100 items, all priced differently. Writing our program in this manner, we'd have to write out our program to multiply each of the items by 0.07, but do that that 100 times. Alright, maybe that will take some time by using some good old fashioned copy and pasting this wouldn't take us more than 5 minutes. Now let's say we have 1,000,000 items... I think you get my point. Alternatively, we could write out a function called getTax (always camel-cased in JavaScript) that takes in the price of any given item (input), multiplies it by 0.07, and returns (outputs) the tax on that item. This saves us the hassle of writing * 0.07 after every item. We can just send it the price and it sends us back the tax. This is called being DRY (Don't Repeat Yourself). We generally want to write as few lines of code as possible and so by doing this, we only have to write * 0.07 once.
