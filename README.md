@@ -20,4 +20,23 @@ Let's think about a relatively simple use case of a function - getting the sales
 There are three ways to write a function in JavaScript, these being a Function Declaration, a Function Expression, and an Arrow Function. There are slight differences and different use cases between the three but often times, any will get the job done and it can come down to a stylistic preference. For now, we are going to focus on the Function Declaration. To write a Function Declaration, we need four things:
 1. What it is - We need to tell JavaScript that this is a function and we do that by declaring it with the word "function".
 2. A name - This is written in Camel Case and can be anything you want, but we generally want a name that describes what the function does. In our example above, our getTax function gets the tax of the priced item. There is also something called an Anonymous Function that doesn't take a name but that is for special cases that will be covered in a future lesson.
-3. Parentheses. Depending on what our function does and information it needs, these can be either empty parentheses or have variables inside them (these  called 
+3. Parentheses - Depending on what our function does and information it needs, these can be either empty parentheses or have variables inside them called parameters. When we invoke a function (a.k.a. run the function), we can pass it information that it may need. This information is denoted inside the parentheses as a parameter that the function will use to perform it's specific task. Though the information being sent to the function may change each time it is invoked (think the different prices of items to get the tax of), the parameter name does not. With each price being sent to the function, the computer sets the price to that parameter name, like if it were called itemPrice, and multiplies it by 0.07. If the function does not need any information, no need for any parameters and they can be left empty.
+4. Curly Brackets (or Curly Braces) - This is where all the function's... well... functionality goes. Everything that the function does, with any information it may given, is written inside of the brackets. This is where we'd write for instance, itemPrice * 0.07 and return it.
+
+Let's head over to https://replit.com/ to try writing out some functions...
+Create a Repl using Node.js as the language. Node.js is essentially JavaScript.
+Give it a title of "Intro to Functions"
+
+Let's start off with a classic Hello World example. Here are the steps we are going to take.
+1. Declare the next block of code we are going to write as a function.
+2. Give our function a name of sayHelloWorld.
+3. Our function will not be taking any information in, so we will use empty parentheses.
+4. Type out opening and closing curly brackets with a bit of code inside that just console logs "Hello World".
+
+Now let's try to return "Hello World"
+
+Now let's adding and returning two numbers
+
+Now let's try that using parameters so we can dynamically change the numbers we want to add.
+
+Now take 3 mins to write out a new function that executes our tax example from above. Be sure to use a descriptive function name and parameter.
