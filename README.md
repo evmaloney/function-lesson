@@ -35,8 +35,9 @@ Let's start off with a classic Hello World example. Here are the steps we are go
 
 Now let's try to return "Hello World"
 
-Now let's adding and returning two numbers
+Now let's try adding and returning two numbers
+
 
 Now let's try that using parameters so we can dynamically change the numbers we want to add.
 
-Now take 3 mins to write out a new function that executes our tax example from above. Be sure to use a descriptive function name and parameter.
+Now take 3 mins to write out a new function that executes our tax example from above. Be sure to use a descriptive function name and parameter. Remember to return and log your results.
