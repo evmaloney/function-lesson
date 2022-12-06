@@ -4,7 +4,7 @@ In this lesson, we will learn:
 1. What is a function?
 2. Why we use functions
 3. How to write a function
-4. The difference between declaring a function and calling a function
+4. How to call a function
 5. How and why we use parameters and arguments
 
 ## What is a function?
