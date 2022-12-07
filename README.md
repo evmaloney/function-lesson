@@ -25,7 +25,7 @@ In this lesson, we will learn:
 
 A common example of a function being run on a website is when we click a button. The action of that click will fire off a function that can potentially fire off other functions, and other functions, each with their own specific task that they are designed to perform.
 
-Often times, a function's purpose is to take in information (input), perform its "task" with that info, and return an altered piece of information (output) to be used elsewhere.
+Often times, a function's purpose is to take in information *(input)*, perform its "task" with that info, and return an altered piece of information *(output)* to be used elsewhere.
 
 ***Algebra anyone?***
 
@@ -51,10 +51,10 @@ We will follow along with the steps in the next section by writing a function th
 
 ### 3. How to write a function
 There are three ways to write a function in JavaScript, these being a Function Declaration, a Function Expression, and an Arrow Function. For now, we are going to focus on the Function Declaration. To write a Function Declaration, we need four things:
-1. What it is 
-   - We need to tell JavaScript that this is a function and we do that by declaring it with the word "function".
-2. A name
-   - This is a descriptive name of our choosing that we give to our function. A good name for our function in our example above that calculates
+**1. What it is** 
+  - We need to tell JavaScript that this is a function and we do that by declaring it with the word "function".
+**2. A name**
+  - This is a descriptive name of our choosing that we give to our function. A good name for our function in our example above that calculates
 4. Parentheses - Depending on what our function does and information it needs, these can be either empty parentheses or have variables inside them called parameters. When we invoke/call a function (a.k.a. run the function), we can pass it information that it may need. This information is denoted inside the parentheses as a parameter that the function will use to perform it's specific task. Though the information being sent to the function may change each time it is invoked (think the different prices of items to get the tax of), the parameter name does not. With each price being sent to the function, the computer sets the price to that parameter name, like if it were called itemPrice, and multiplies it by 0.07. If the function does not need any information, no need for any parameters and they can be left empty.
 5. Curly Brackets (or Curly Braces) - This is where all the function's... well... functionality goes. Everything that the function does, with any information it may given, is written inside of the brackets. This is where we'd write for instance, itemPrice * 0.07 and return it.
 
