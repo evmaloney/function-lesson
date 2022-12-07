@@ -39,6 +39,7 @@ Let's say we needed to write a program where we price out several items with a t
 Before we continue, let's head over to [replit.com](https://replit.com/) to follow along with the next part of the lesson...
 - Create a Repl using Node.js as the language.
 - Give it a title of "Intro to Functions"
+
 We will follow along with the steps in the next section by writing a function that simply console logs "Hello World"
 
 ## 3. How to write a function
