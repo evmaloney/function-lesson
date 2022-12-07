@@ -44,7 +44,6 @@ Let's say we were writing a program where we needed to get the tax on several se
 Before we continue, let's head over to [replit.com](https://replit.com/) to follow along with the next part of the lesson...
 - Create a Repl using Node.js as the language.
 - Give it a title of "Intro to Functions"
-
 We will follow along with the steps in the next section by writing a function that simply console logs "Hello World"
 ---
 
