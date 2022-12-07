@@ -12,7 +12,7 @@ In this lesson, we will learn:
 3. How to write and call a function
 
 ## What is a function?
-Functions are one of the essential building blocks of a program. They can be thought of as the verbs, or the "action" pieces of the code. Functions are designed to perform a specific task, or set of tasks, each time we run them. One common example of a function being run on a website is when we click a button. Assuming this is a working button that actually performs a duty, this action will fire off a function that can potentially fire off other functions, and other functions, each with their own specific task that they are designed to perform. Now you might see a little more clearly why functions are considered a building block of programming.
+Functions are one of the essential building blocks of a program. They can be thought of as the verbs, or the "action" pieces of the code. Functions are designed to perform a specific task, or set of tasks, each time we run them. A common example of a function being run on a website is when we click a button. Assuming this is a working button that actually performs a duty, this action will fire off a function that can potentially fire off other functions, and other functions, each with their own specific task that they are designed to perform.
 Often times, a function can take in information (input), do its "task" (or "tasks") with that info, and send out an altered or new piece of information (output) to be used elsewhere.
 
 (Algebra anyone?)
