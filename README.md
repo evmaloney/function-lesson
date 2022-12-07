@@ -6,7 +6,8 @@ By the end of this lesson, we will be able to:
 - Call a function
 ### Previous JavaScript knowledge that would be helpful:
 - How to declare and initialize a variable
-- How to console log
+- How to log something to the console
+- Mathematical operations
 
 ![](https://pbs.twimg.com/media/FAULatTXsAINYzo.jpg)
 
