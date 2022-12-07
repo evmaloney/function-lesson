@@ -59,7 +59,9 @@ There are three ways to write a function in JavaScript, these being a ***Functio
   - If our function does not need any input, the parentheses are empty
   - If our function does take one or more inputs, there will be variables inside the parentheses that our function will use. We call these variables ***parameters***
 #### 4. Curly Brackets (or Curly Braces)
-  - This is where all the function's... well... functionality goes. Everything that the function *does*, with any information it may given, is written inside of the brackets. In our tax example above, this would be where we multiply our ```itemPrice``` by ```0.07``` and return it
+  - This is where all the function's... well... functionality goes. Everything that the function *does*, with any information it may be given, is written inside of the brackets. In our tax example above, this would be where we multiply our ```itemPrice``` by ```0.07``` and return it.
+
+### 4. Returns
 
 Now let's try to return "Hello World" rather than console logging it.
 
