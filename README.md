@@ -1,6 +1,6 @@
-# Functions
+# JavaScript Functions
 
-### By the end of this lesson, we will understand how to write and call a function
+## By the end of this lesson, we will understand how to write and call a function
 ### Previous JavaScript knowledge that would be helpful:
 - How to declare and initialize a variable
 - How to console log
