@@ -1,6 +1,6 @@
 # JavaScript Functions
 
-![](https://meme-arsenal.com/create/meme/1743666)
+![](https://www.meme-arsenal.com/memes/5c0b28a7cc04db2c07327b7f3fe81c1f.jpg)
 
 ## Learning Objectives
 By the end of this lesson, we will be able to:
