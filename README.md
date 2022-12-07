@@ -22,6 +22,7 @@ In this lesson, we will learn:
 - Functions are one of the essential building blocks of a program 
 - Think of them as the verbs, or the "action" pieces of the code
 - Designed to perform a specific task each time we run them 
+
 A common example of a function being run on a website is when we click a button. The action of that click will fire off a function that can potentially fire off other functions, and other functions, each with their own specific task that they are designed to perform.
 Often times, a function's purpose is to take in information (input), perform its "task" with that info, and return an altered piece of information (output) to be used elsewhere.
 
