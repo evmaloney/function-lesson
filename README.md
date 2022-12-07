@@ -54,7 +54,7 @@ There are three ways to write a function in JavaScript, these being a ***Functio
 #### 1. What it is 
   - We need to tell JavaScript that this is a function and we do that by declaring it with the word *"function"*.
 #### 2. A name
-  - This is a descriptive name of our choosing that we give to our function. A good name for our function in our example above that calculates tax could be ```getTax```
+  - This is a descriptive name of our choosing that we give to our function. A good name for our function in our example above that calculates tax could be ```js getTax ```
 #### 3. Parentheses
   - If our function does not need any input, the parentheses are empty
   - If our function does take one or more inputs, there will be variables inside the parentheses that our function will use. We call these variables ***parameters***
