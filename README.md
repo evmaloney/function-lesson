@@ -6,7 +6,7 @@ By the end of this lesson, we will be able to:
 - Call a function
 ### Previous JavaScript knowledge that would be helpful:
 - How to declare and initialize a variable
-- How to log something to the console
+- How to log something to the console 
 - Mathematical operations
 
 ![](https://pbs.twimg.com/media/FAULatTXsAINYzo.jpg)
@@ -19,7 +19,7 @@ In this lesson, we will learn:
 4. The 'return' statement
 
 ### 1. What is a function?
-- Functions are one of the essential building blocks of a program 
+- Functions are one of the essential building blocks of a program
 - Think of them as the verbs, or the "action" pieces of the code
 - Designed to perform a specific task each time we run them 
 
@@ -34,10 +34,11 @@ Functions let us:
 - Break our code down into smaller tasks
 - Stay organized
 - Run code without having to rewrite it. This allows us to be 'DRY' (Don't Repeat Yourself) and write less code.
+- Build dynamic programs by allowing us to change inputs
 
 Let's say we needed to write a program where we price out several items with a tax rate of 7% included. Rather than separately multiply each item's price by 1.07, we could write a function that takes in the price of an item, performs this calculation on it, and sends it back to us. Each time we need the price plus tax of a new item, we just need to send it to the function.
 
-🛑 **Questions so far???**
+#### 🛑 Questions so far???
 
 Before we continue, let's head over to [replit.com](https://replit.com/) to follow along with the next part of the lesson...
 - Create a Repl using Node.js as the language.
@@ -45,7 +46,7 @@ Before we continue, let's head over to [replit.com](https://replit.com/) to foll
 
 We will follow along with the steps in the next section by writing a function that simply console logs "Hello World"
 
-## 3. How to write a function
+### 3. How to write a function
 There are three ways to write a function in JavaScript, these being a Function Declaration, a Function Expression, and an Arrow Function. For now, we are going to focus on the Function Declaration. To write a Function Declaration, we need four things:
 1. What it is 
   - We need to tell JavaScript that this is a function and we do that by declaring it with the word "function".
