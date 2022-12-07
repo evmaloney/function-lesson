@@ -38,7 +38,9 @@ Functions let us:
 
 Let's say we needed to write a program where we price out several items with a tax rate of 7% included. Rather than separately multiply each item's price by 1.07, we could write a function that takes in the price of an item, performs this calculation on it, and sends it back to us. Each time we need the price plus tax of a new item, we just need to send it to the function.
 
+
 #### 🛑 Questions so far???
+
 
 Before we continue, let's head over to [replit.com](https://replit.com/) to follow along with the next part of the lesson...
 - Create a Repl using Node.js as the language.
