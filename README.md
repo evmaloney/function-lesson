@@ -36,15 +36,15 @@ Functions let us:
 - Run code without having to rewrite it. This allows us to be 'DRY' (Don't Repeat Yourself) and write less code.
 - Build dynamic programs by allowing us to change inputs
 
-Let's say we needed to write a program where we price out several items with a tax rate of 7% included. Rather than separately multiply each item's price by 1.07, we could write a function that takes in the price of an item, performs this calculation on it, and sends it back to us. Each time we need the price plus tax of a new item, we just need to send it to the function.
-
+Let's say we were writing a program where we needed to get the tax on several separate items at a rate of 7%. Rather than separately multiply each item's price by 0.07, we could write a function that takes in the price of an item, performs this calculation on it, and sends it back to us. Each time we need the tax amount of an item, we just need to send its price to the function.
 
 #### 🛑 Questions so far???
 
-
+---
 Before we continue, let's head over to [replit.com](https://replit.com/) to follow along with the next part of the lesson...
 - Create a Repl using Node.js as the language.
 - Give it a title of "Intro to Functions"
+---
 
 We will follow along with the steps in the next section by writing a function that simply console logs "Hello World"
 
@@ -52,7 +52,8 @@ We will follow along with the steps in the next section by writing a function th
 There are three ways to write a function in JavaScript, these being a Function Declaration, a Function Expression, and an Arrow Function. For now, we are going to focus on the Function Declaration. To write a Function Declaration, we need four things:
 1. What it is 
   - We need to tell JavaScript that this is a function and we do that by declaring it with the word "function".
-2. A name - This is the name of our choosing that we give to our function that describes what the function does. In our example above, our getTax function gets the tax of the priced item.
+2. A name
+  - This is a descriptive name of our choosing that we give to our function. A good name for our function in our example above that calculates
 4. Parentheses - Depending on what our function does and information it needs, these can be either empty parentheses or have variables inside them called parameters. When we invoke/call a function (a.k.a. run the function), we can pass it information that it may need. This information is denoted inside the parentheses as a parameter that the function will use to perform it's specific task. Though the information being sent to the function may change each time it is invoked (think the different prices of items to get the tax of), the parameter name does not. With each price being sent to the function, the computer sets the price to that parameter name, like if it were called itemPrice, and multiplies it by 0.07. If the function does not need any information, no need for any parameters and they can be left empty.
 5. Curly Brackets (or Curly Braces) - This is where all the function's... well... functionality goes. Everything that the function does, with any information it may given, is written inside of the brackets. This is where we'd write for instance, itemPrice * 0.07 and return it.
 
