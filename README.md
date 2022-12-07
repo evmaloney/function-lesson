@@ -1,5 +1,5 @@
 # JavaScript Functions
-![](https://i0.wp.com/i.pinimg.com/originals/c6/4e/fc/c64efc9adaedbf446f328698e8b67388.jpg?resize=650,400)
+![](https://i0.wp.com/i.pinimg.com/originals/c6/4e/fc/c64efc9adaedbf446f328698e8b67388.jpg?resize=325,200)
 ![](https://www.meme-arsenal.com/memes/5c0b28a7cc04db2c07327b7f3fe81c1f.jpg)
 
 ## Learning Objectives
