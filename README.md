@@ -1,6 +1,12 @@
 # JavaScript Functions
 
-## By the end of this lesson, we will understand how to write and call a function
+![](https://i.imgur.com/yxikhiY.jpg
+)
+
+## Learning Objectives
+By the end of this lesson, we will be able to:
+- Write a function
+- Call a function
 ### Previous JavaScript knowledge that would be helpful:
 - How to declare and initialize a variable
 - How to console log
