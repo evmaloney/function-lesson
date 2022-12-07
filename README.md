@@ -1,6 +1,4 @@
 # JavaScript Functions
-![](https://pbs.twimg.com/media/FAULatTXsAINYzo.jpg)
-![](https://www.meme-arsenal.com/memes/5c0b28a7cc04db2c07327b7f3fe81c1f.jpg)
 
 ## Learning Objectives
 By the end of this lesson, we will be able to:
@@ -9,6 +7,8 @@ By the end of this lesson, we will be able to:
 ### Previous JavaScript knowledge that would be helpful:
 - How to declare and initialize a variable
 - How to console log
+
+![](https://pbs.twimg.com/media/FAULatTXsAINYzo.jpg)
 
 ## Learning Objectives
 In this lesson, we will learn:
