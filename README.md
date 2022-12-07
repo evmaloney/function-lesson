@@ -45,12 +45,12 @@ Before we continue, let's head over to [replit.com](https://replit.com/) to foll
 - Create a Repl using Node.js as the language.
 - Give it a title of "Intro to Functions"
 
-We will follow along with the steps in the next section by writing a function that simply console logs "Hello World"
+We will follow along with the steps in the next section by writing a function that simply console logs *"Hello World"*
 
 ---
 
 ### 3. How to write a function
-There are three ways to write a function in JavaScript, these being a *Function Declaration*, a *Function Expression*, and an *Arrow Function*. For now, we are going to focus on the *Function Declaration*. To write a *Function Declaration*, we need four things:
+There are three ways to write a function in JavaScript, these being a ***Function Declaration***, a ***Function Expression***, and an ***Arrow Function***. For now, we are going to focus on the Function Declaration. To write a Function Declaration, we need four things:
 #### 1. What it is 
   - We need to tell JavaScript that this is a function and we do that by declaring it with the word *"function"*.
 #### 2. A name
