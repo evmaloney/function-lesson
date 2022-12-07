@@ -1,6 +1,6 @@
 # JavaScript Functions
 
-![]([https://i.imgur.com/yxikhiY.jpg](https://meme-arsenal.com/create/meme/1743666))
+![](https://meme-arsenal.com/create/meme/1743666)
 
 ## Learning Objectives
 By the end of this lesson, we will be able to:
