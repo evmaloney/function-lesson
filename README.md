@@ -9,14 +9,7 @@
 In this lesson, we will learn:
 1. What is a function?
 2. Why we use functions
-3. How to write a function
-4. How to call a function
-5. How and why we use parameters and arguments
-
-### By the end of this lesson, we will understand how to write and call a function
-### Previous JavaScript knowledge that would be helpful:
-- How to declare and initialize a variable
-- How to console log
+3. How to write and call a function
 
 ## What is a function?
 Functions are one of the essential building blocks of a program. They can be thought of as the verbs, or the "action" pieces of the code. Functions are designed to perform a specific task, or set of tasks, each time we run them. One common example of a function being run on a website is when we click a button. Assuming this is a working button that actually performs a duty, this action will fire off a function that can potentially fire off other functions, and other functions, each with their own specific task that they are designed to perform. Now you might see a little more clearly why functions are considered a building block of programming.
