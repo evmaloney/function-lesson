@@ -109,7 +109,7 @@ Now let's edit our getSum function to use parameters so we can dynamically chang
 ---
 ---
 
-***More info***
+## More info ##
 **** Function Expression
 ```js
 const getArea = function(num1, num2) {
