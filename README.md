@@ -16,7 +16,7 @@ In this lesson, we will learn:
 1. What is a function?
 2. Why we use functions
 3. How to write a function
-4. The 'return' statement
+4. How to call a function
 
 ### 1. What is a function?
 - Functions are one of the essential building blocks of a program
@@ -61,7 +61,16 @@ There are three ways to write a function in JavaScript, these being a ***Functio
 #### 4. Curly Brackets (or Curly Braces)
   - This is where all the function's... well... functionality goes. Everything that the function *does*, with any information it may be given, is written inside of the brackets. In our tax example above, this would be where we multiply our ```itemPrice``` by ```0.07``` and return it.
 
-### 4. Returns
+### 4. How to call a function
+Luckily, calling a function is the easiest part of a function. Unfortunately, forgetting to call a function is going to be a source of major headaches of your careers. Normally, and in other languages this is a must, a function is called **below** its declaration. In JavaScript and with *function declarations* in particular, we may call them anywhere.
+
+To call a function, all we need is simply the name of the function and a pair of parentheses.
+- If you don't need to send an input to the function, these parentheses are empty
+- If you do need to send one or more inputs, we just fill the parentheses with the input(s), separated by commas if there are more then one.
+
+### 5. The return statement
+Though most people wait until after Christmas to return things, we programmers enjoy return things year round 🤓
+*** laughter, applause, standing vation, you may be seated! ***
 
 Now let's try to return "Hello World" rather than console logging it.
 
