@@ -104,4 +104,30 @@ getSum(8, 6)
 
 Now let's edit our getSum function to use parameters so we can dynamically change the numbers we want to add with each function call.
 
-Now take 3 mins to write out a new function that executes our tax example from above. Be sure to use a descriptive function name and parameter. Remember to return and log your results.
+- **Now's your turn! Take 3 mins to write out a new function that executes our tax example from above. Be sure to use a descriptive function name and parameter. Remember to return and log your results.
+---
+*** More info
+**** Function Expression
+```js
+const getArea = function(num1, num2) {
+  const area = num1 * num2;
+  return area;
+}
+
+getArea(8, 6)
+```
+**** Arrow function
+```js
+const getSquare = (num) => {
+  const square = num * num;
+  return square;
+}
+
+getSquare(5)
+```
+Alternative one liner of arrow function. This automatically return what comes after the arrow.
+```js
+const getSquare = (num) => num * num;
+
+getSquare(5)
+```
