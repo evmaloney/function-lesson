@@ -105,8 +105,11 @@ getSum(8, 6)
 Now let's edit our getSum function to use parameters so we can dynamically change the numbers we want to add with each function call.
 
 - **Now's your turn! Take 3 mins to write out a new function that executes our tax example from above. Be sure to use a descriptive function name and parameter. Remember to return and log your results.
+
 ---
-*** More info
+---
+
+***More info***
 **** Function Expression
 ```js
 const getArea = function(num1, num2) {
