@@ -110,7 +110,7 @@ Now let's edit our getSum function to use parameters so we can dynamically chang
 ---
 
 ## More info ##
-**** Function Expression
+#### Function Expression
 ```js
 const getArea = function(num1, num2) {
   const area = num1 * num2;
@@ -119,7 +119,7 @@ const getArea = function(num1, num2) {
 
 getArea(8, 6)
 ```
-**** Arrow function
+#### Arrow function
 ```js
 const getSquare = (num) => {
   const square = num * num;
@@ -128,7 +128,7 @@ const getSquare = (num) => {
 
 getSquare(5)
 ```
-Alternative one liner of arrow function. This automatically return what comes after the arrow.
+**Alternative one liner of arrow function. This automatically return what comes after the arrow.**
 ```js
 const getSquare = (num) => num * num;
 
