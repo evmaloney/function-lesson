@@ -128,7 +128,7 @@ const getSquare = (num) => {
 
 getSquare(5)
 ```
-**Alternative one liner of arrow function. This automatically return what comes after the arrow.**
+Alternative one liner of arrow function. This automatically return what comes after the arrow.
 ```js
 const getSquare = (num) => num * num;
 
