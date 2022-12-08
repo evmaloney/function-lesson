@@ -90,6 +90,7 @@ We spoke briefly about paramters and arguments - here's a quick recap:
 - When we want to input those arguments into our function, we give them ***parameters*** in our function's parentheses that will represent the values of the arguments that were sent in. Much like our function name, the name of each parameter should be descriptive and camel-cased.
 
 ***!!!Please not that the order or these matter - the first parameter will represent the value of the first argument!!!***
+
 Sample:
 ```js
 function getSum(num1, num2) {
