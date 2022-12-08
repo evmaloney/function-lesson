@@ -71,7 +71,7 @@ To call a function, all we need is simply the name of the function and a pair of
 ### 5. The return statement
 Though most people wait until after Christmas to return their gifts, we programmers enjoy return things year round 🤓
 
-*** laughter, applause, standing ovation, "thank you, you may be seated!" ***
+**laughter, applause, standing ovation,** ***"thank you, you may be seated!"***
 
 Now let's try to return "Hello World" rather than console logging it.
 
