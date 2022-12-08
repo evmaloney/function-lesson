@@ -17,6 +17,8 @@ In this lesson, we will learn:
 2. Why we use functions
 3. How to write a function
 4. How to call a function
+5. The return statement
+6. Parameters and arguments
 
 ### 1. What is a function?
 - Functions are one of the essential building blocks of a program
@@ -77,12 +79,17 @@ The ```return``` statement allows us to *output* a single piece of information. 
 
 To return something, all we'd do is put ```return``` in front of whatever we want to output from the function.
 
-- **Now let's try to return "Hello World" rather than console logging it.**
+- **Let's edit our function to return "Hello World" rather than console logging it.**
 
 #### 🛑 Questions so far???
 
 ---
+### 6. Parameters and arguements
+We spoke briefly about paramters and arguments - here's a quick recap:
+- When we call our function and want to send it information, we put our ***arguments*** inside of the parentheses. These are often strings or integers.
+- When we want to use those arguments in our function, we give them ***parameters*** in our function's parentheses that will represent the values of the arguments that were sent in.
 
+***please not that the order or these matter - the first parameter will represent the value of the first argument!***
 
 Now let's edit our getSum function to use parameters so we can dynamically change the numbers we want to add with each function call.
 
