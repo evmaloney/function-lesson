@@ -69,7 +69,7 @@ To call a function, all we need is simply the name of the function and a pair of
 - If you do need to send one or more inputs, we just fill the parentheses with the input(s), separated by commas if there are more then one.
 
 ### 5. The return statement
-Though most people wait until after Christmas to return their gifts, we programmers enjoy return things year round 🤓
+Though most people wait until after the holidays to return their gifts, we programmers enjoy returning things year round 🤓
 
 **laughter, applause, standing ovation,** ***"thank you, you may be seated!"***
 
@@ -77,7 +77,7 @@ The ```return``` statement allows us to *output* a single piece of information. 
 
 To return something, all we'd do is put ```return``` in front of whatever we want to output from the function.
 
-**Now let's try to return "Hello World" rather than console logging it.**
+- **Now let's try to return "Hello World" rather than console logging it.**
 
 Now let's create a function called getSum that simply returns the sum of two numbers.
 
