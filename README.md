@@ -73,7 +73,11 @@ Though most people wait until after Christmas to return their gifts, we programm
 
 **laughter, applause, standing ovation,** ***"thank you, you may be seated!"***
 
-Now let's try to return "Hello World" rather than console logging it.
+The ```return``` statement allows us to *output* a single piece of information. In our tax example, we'd be returning the tax on that particular item.
+
+To return something, all we'd do is put ```return``` in front of whatever we want to output from the function.
+
+**Now let's try to return "Hello World" rather than console logging it.**
 
 Now let's create a function called getSum that simply returns the sum of two numbers.
 
