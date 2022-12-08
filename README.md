@@ -69,8 +69,9 @@ To call a function, all we need is simply the name of the function and a pair of
 - If you do need to send one or more inputs, we just fill the parentheses with the input(s), separated by commas if there are more then one.
 
 ### 5. The return statement
-Though most people wait until after Christmas to return things, we programmers enjoy return things year round 🤓
-*** laughter, applause, standing vation, you may be seated! ***
+Though most people wait until after Christmas to return their gifts, we programmers enjoy return things year round 🤓
+
+*** laughter, applause, standing ovation, "thank you, you may be seated!" ***
 
 Now let's try to return "Hello World" rather than console logging it.
 
