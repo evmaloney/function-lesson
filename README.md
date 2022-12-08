@@ -66,7 +66,7 @@ Luckily, calling a function is the easiest part of a function. Unfortunately, fo
 
 To call a function, all we need is simply the name of the function and a pair of parentheses.
 - If you don't need to send an input to the function, these parentheses are empty
-- If you do need to send one or more inputs, we just fill the parentheses with the input(s), separated by commas if there are more then one. We call these ***arguements***.
+- If you do need to send one or more inputs, we just fill the parentheses with the input(s), separated by commas if there are more then one. We call these ***arguments***.
 
 ### 5. The return statement
 Though most people wait until after the holidays to return their gifts, we programmers enjoy returning things year round 🤓
@@ -83,7 +83,6 @@ To return something, all we'd do is put ```return``` in front of whatever we wan
 
 ---
 
-- **Let's get a little practice. Take one minute to write a function that only returns the sum of two numbers
 
 Now let's edit our getSum function to use parameters so we can dynamically change the numbers we want to add with each function call.
 
