@@ -87,9 +87,9 @@ To return something, all we'd do is put ```return``` in front of whatever we wan
 ### 6. Parameters and arguements
 We spoke briefly about paramters and arguments - here's a quick recap:
 - When we call our function and want to send it information, we put our ***arguments*** inside of the parentheses. These are often strings or integers.
-- When we want to use those arguments in our function, we give them ***parameters*** in our function's parentheses that will represent the values of the arguments that were sent in.
+- When we want to use those arguments in our function, we give them ***parameters*** in our function's parentheses that will represent the values of the arguments that were sent in. Much like our function name, the name of each parameter should be descriptive and camel-cased.
 
-***please not that the order or these matter - the first parameter will represent the value of the first argument!***
+***!!!Please not that the order or these matter - the first parameter will represent the value of the first argument!!!***
 
 Now let's edit our getSum function to use parameters so we can dynamically change the numbers we want to add with each function call.
 
